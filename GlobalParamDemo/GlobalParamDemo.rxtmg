@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modulegroupdoc>
+  <testsuiteentryhierarchy>
+    <flatlistofchildren>
+      <modulegroups
+      name="GlobalParamDemo"
+      id="1d1fc85e-4083-4b3a-82db-7ca4057dcf8e"/>
+    </flatlistofchildren>
+    <childhierarchy>
+      <modulegroups
+      name="GlobalParamDemo"
+      id="1d1fc85e-4083-4b3a-82db-7ca4057dcf8e"/>
+    </childhierarchy>
+  </testsuiteentryhierarchy>
+</modulegroupdoc>
