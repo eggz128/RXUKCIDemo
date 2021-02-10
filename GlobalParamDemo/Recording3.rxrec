@@ -52,6 +52,18 @@ mode="Global">
 			<bindings>
 			</bindings>
 		</loggingrecorditem>
+		<loggingrecorditem
+		category="User"
+		enabled="True"
+		message="TriggerCI?"
+		optional="False"
+		reportlevel="Info;20"
+		searchpropertyid="d6c71d56-1547-4b19-b48a-17cbef92f9d0">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+		</loggingrecorditem>
 	</recorditems>
 	<repository
 	id="e47ab08b-bbf0-4632-9002-fe9fe2ef177e"

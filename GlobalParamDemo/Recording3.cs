@@ -84,6 +84,8 @@ namespace GlobalParamDemo
             
             Report.Log(ReportLevel.Info, "User", "Blah", new RecordItemIndex(1));
             
+            Report.Log(ReportLevel.Info, "User", "TriggerCI?", new RecordItemIndex(2));
+            
         }
 
 #region Image Feature Data
